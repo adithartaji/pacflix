@@ -4,6 +4,8 @@ print('--------------------')
 print('Selamat datang di Pacflix, platform streaming film terbaik!')
 print('Apakah Anda ingin melakukan registrasi? (y/n)')
 user_input = input().lower()
+print(user_input)
+
 if user_input == 'y':
     print('Silakan masukkan username: ')
     username = input()
