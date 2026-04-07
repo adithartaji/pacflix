@@ -16,3 +16,4 @@ else:
     print('Input tidak valid. Silakan masukkan "y" atau "n".')
 print('--------------------')
 print('Terima kasih telah menggunakan Pacflix!')
+print('--------------------')
